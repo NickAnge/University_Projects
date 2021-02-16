@@ -1,2 +1,2 @@
 # University_Projects
-Some of the most interesting projects on my way to learn programming in University
+Some of the first projects on my way to learn programming in University
